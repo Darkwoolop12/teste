@@ -1,0 +1,123 @@
+Modelo de lista MANOEL FILMES 
+
+#EXTM3U
+
+
+
+#PLAYLISTV: pltv-logo="https://i.ytimg.com/vi/w7Q9apDA40U/maxresdefault.jpg" pltv-name="MANOEL FILMES" pltv-cover="https://i.ytimg.com/vi/w7Q9apDA40U/maxresdefault.jpg" pltv-author="MANOELFILMES"
+
+modelo que funciona 👇👇👇
+
+#EXTINF:-1 tvg-logo="http://cps-static.rovicorp.com/2/Open/Universal%20Studios%20Home%20Ent/Devil/_2by3/_derived_jpg_q90_600x800_m0/DevilPoster.jpg" tvg-id="0" group-title="TERROR",Demônio  (2010)
+https://docs.google.com/file/d/1AXTc-wQf7kVzy_bfg3IA4zgGoLuUzmMS/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5e/Defianceposter08.jpg" tvg-id="0" group-title="AÇAO",Um ato de liberdade(2008)
+https://docs.google.com/file/d/116208sndzbupkYTvG9qaYXaNXQKIE1oh/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcwOGM4ZDUtOGFiZS00YTAxLWExMTQtMWQ1NGU2NTZjYjg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-id="0" group-title="TERROR",No Cair da Noite  (2003)
+https://docs.google.com/file/d/1PJsPw-gKQQcySU4WWXUojnrEAKm65BM5/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkzOWEyM2ItNjliNi00MTk4LTk2YmEtMjdiNTJlOGE4NTIxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UY268_CR9,0,182,268_AL_.jpg" tvg-id="0" group-title="AÇAO",O Elevador da Morte  (2001)
+https://docs.google.com/file/d/1tBtXEQDxSUzVH4-FxQLDHsnsaoNtGOnC/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNlNWVjOTMtZjVjYy00MzRjLTg2MmQtNTM3MWVmZjFjYzgwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY268_CR5,0,182,268_AL_.jpg" tvg-id="0" group-title="TERROR",Freddy vs Jason  (2003) 
+https://docs.google.com/file/d/1bx2YjDRVC4iDz2TC8mv4oux2E5-DH2gS/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-id="0" group-title="AÇAO",BLADE TRINITY(2004)
+https://docs.google.com/file/d/11a8bBWlznGOzAh05aOwut2HUtFCwZhj4/preview
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjZTIzNDYtNTBlNC00NTJjLTkzOTEtOTE0MjlhYzI2YTcyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-id="0" group-title="AÇAO",Blade II (2002)
+https://docs.google.com/file/d/14Y9JYf4qV6Pv2ydg4b1qfi0-c2nWgmRv/preview
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxNjg4MzU5OV5BMl5BanBnXkFtZTcwOTA3NTUwMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-id="0" group-title="AÇAO",Fúria de Titãs(2010)
+https://docs.google.com/file/d/1_gpyuBeOYSqVfFXOH-VxQ6PipccqZIsD/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-id="0" group-title="TERROR",Madrugada dos Mortos(2004)
+https://docs.google.com/file/d/1QdwNfvU6MZGJs2PedVhuI1UE_cnRGP27/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY4OWNjYWQtODM2NC00MDk3LTgzMDgtM2QzZWFmYTNlNDk2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR1,0,182,268_AL_.jpg" tvg-id="0" group-title="TERROR",Possuída(2000)
+https://docs.google.com/file/d/1Bk-SjfD2CYsP_FnQxpbaOoU2MpHySnXI/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzZk95JmMqsFYrQVAcGBx3jtqrSNhj7CVb_3ZrCi5CSkVFrhsk" tvg-id="0" group-title="Drama",Enterrado Vivo
+https://docs.google.com/file/d/1oFV7Wx8Zo12F1iSxo9r0d7Q5Vh3pyAVv/preview
+
+--------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/wt3L1Dl5dhTGJ7Y4CYumnPRO0wM=/290x478/smart/media/movies/covers/2018/01/A_Caverna.jpg" tvg-id="0" group-title="AÇAO",A Caverna
+https://docs.google.com/file/d/1c8Txo9Jz9tUdp1tAa26YOV48bot1kXsF/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://megafilmes.org/wp-content/uploads/2018/09/41402-240x320.jpg" tvg-id="0" group-title="TERROR",Deixe-me entrar
+https://docs.google.com/file/d/196_v5A1AitbJo9G6AFO-D_IC9diMzvow/preview
+
+-------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="http://cps-static.rovicorp.com/2/Open/1SPS/VT/VOD/CPI/_derived_jpg_q90_600x800_m0/15737747_PA_Red-Dragon_1.jpg" tvg-id="0" group-title="Suspense",DRAGÃO VERMELHO
+https://docs.google.com/file/d/1mO1zXWcHHkCCNEPToMBPYVGIHFnq9433/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://www.thepiratefilmes.biz/wp-content/uploads/2018/10/eSivb4EyOAyEum70mOSHtAWiUe3-1.jpg" tvg-id="0" group-title="Drama",Advogado do Diabo(1997)
+https://docs.google.com/file/d/1zlbhGfV8y8pQxjoKhsi24wid0M5XgW4I/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/iUVaF7WNmnPH7FeqxccgRlA0MZU.jpg" tvg-id="0" group-title="TERROR",A Maldição da Sereia(2019)
+https://docs.google.com/file/d/1_2V2Fhr4e4-2kwl2ewAR13_647S03KlP/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/30ieINy7vNZBSBJNRRzkwVX3DYf.jpg" tvg-id="0" group-title="AÇAO",Ninja Assassino(2009)
+https://docs.google.com/file/d/1T-RDLWvjWyrTWE77-ECtA-qB3HyYnfGm/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://maxfilmestorrent.com/wp-content/uploads/2019/11/nTtyzQ1qFDJXLWvXX4wvOu0nYun.jpg" tvg-id="0" group-title="TERROR",Possuída 2 - Força Incontrolável(2004) 
+https://docs.google.com/file/d/17vkdJQIcYVXjofhx5WJi-LsmtNqRTSeE/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RsS7DwVQMVc/WtnRDsUlxiI/AAAAAAAALkc/JnSnGnZEB0MluOVomJT8wL6TddDYoad8gCLcBGAs/s1600/possuida3.jpg" tvg-id="0" group-title="TERROR",Possuída 3 - O Início(2004) 
+https://docs.google.com/file/d/18ygizagwffP7WYX3Zi3nqRFM18p3cmr0/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/6PgH4CNMY1TE3c5NQdXCLUyCosr.jpg" tvg-id="0" group-title="Suspense",Sem Limites(2011)
+https://docs.google.com/file/d/1c1llJ1_M0N-TWLC8RhWLdnUZVo2l-XY3/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg" tvg-id="0" group-title="TERROR",A Freira (2018)
+https://docs.google.com/file/d/1yqhZfgMnE6eeuQ3XCxiBejLhlP57DShr/preview
+
+-------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/96XBFBnH9PlGnxBWjA0U25PemVW.jpg" tvg-id="0" group-title="Suspense",Sinais (2002)
+https://docs.google.com/file/d/1tBuDn2Yn5CBON5Y-AYC6O4Uv2tq5jS4U/preview
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/96XBFBnH9PlGnxBWjA0U25PemVW.jpg" tvg-id="0" group-title="TESTEA",TEAS
+https://docs.google.com/file/d/1egrmx1yWYofJnqFN9uOFED5G6GDxRhNF/preview
+
+
